@@ -8,6 +8,7 @@ This project is a demo Flutter application.
 
 A few tips on how to run this project:
 
+- This project uses Flutter 2.8.0
 - Run `flutter run` to build generate hive models
 - Run `flutter packages pub run build_runner build --delete-conflicting-outputs` to build generate hive models
 - Run `flutter test test/unit_tests` to run the unit tests
